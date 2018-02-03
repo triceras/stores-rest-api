@@ -1,4 +1,4 @@
-# My awesome REST API
+# Stores Rest API 
 
 ## Installation
 
@@ -9,4 +9,8 @@ python app.py
 
 ## Description
 
+This is built with Flask, Flask-RESTful, FLASK-JWT, and Flask-SQLAlchemy
+
 ## Implementation
+
+Deployed on Heroku
